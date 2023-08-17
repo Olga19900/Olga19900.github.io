@@ -1,0 +1,37 @@
+.page-home .content {
+    width: 1200px;
+    display: flex;
+    margin: 100px auto;
+}
+
+.page-home .card {
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    border: 1px solid black;
+    margin: 0 50px 0 auto;
+    box-shadow: 4px 4px 0 black;
+}
+
+.page-home .card-title {
+    font-size: 31px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+
+.page-home .card-title:hover {
+    opacity: 0.8;
+}
+
+.page-home .card-imag {
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+

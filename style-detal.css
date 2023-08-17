@@ -1,0 +1,118 @@
+.page-detail .content {
+    width: 1200px;
+    margin: 100px auto;
+}
+
+.page-detail .container {
+    display: flex;
+}
+
+.page-detail .card {
+    width: 33%;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    border: 1px solid black;
+    margin: 0 50px 0 auto;
+    box-shadow: 4px 4px 0 black;
+}
+
+.page-detail .list {
+    width: 875px;
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    border: 1px solid black;
+    margin: 40px 50px 0 auto;
+    vertical-align: top;
+}
+
+.page-detail .list-header {
+    margin: auto;
+    color: black;
+    font-weight: 800;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.page-detail .list-list {
+    margin: 20px auto 30px;
+    color: black;
+    font-size: 18px;
+}
+
+.page-detail .card-title {
+    font-size: 31px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    display: block;
+    color: black;
+}
+
+.page-detail .card-imag {
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+
+.page-detail .description-title {
+    margin: 50px auto 30px;
+    color: black;
+    font-weight: 800;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.page-detail .description-text {
+    color: black;
+    font-size: 18px;
+   }
+
+.content .reviews {
+    margin: 50px auto 30px;
+    color: black;
+    font-weight: 800;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.container-reviews .line {
+    padding-bottom: 20px;
+    border: none;
+    border-bottom: 1px solid #F5DEB3;
+}
+
+.container-review .review-header {
+    margin-top: 30px;
+    display: flex;
+}
+
+.review-header .avatar-image {
+    margin-right: 20px;
+    border-radius: 20%;
+    width: 90px;
+}
+
+.review-header .name {
+    font-size: 18px;
+    margin-right: 15px;
+}
+
+.review-header .city {
+    font-size: 18px;
+}
+
+.container-reviews .review-body {
+    font-size: 18px;
+}
+
+.content .new-reviews {
+    margin: 50px auto 30px;
+    color: black;
+    font-weight: 550;
+    font-size: 22px;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
